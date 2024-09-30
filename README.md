@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Charles
 - 👀 I’m interested in Cloud DevOps
 - 🌱 I’m currently learning to become a full stack developer at Kood/Jõhvi
-- 💞️ I’m looking to collaborate on like minded individuals in the DevOps space
-- 📫 How to reach me tumbaoka@gmail.com
+- 💞️ I’m looking to collaborate with like minded individuals in the DevOps space
+- 📫 How to reach me is via email: tumbaoka@gmail.com
 
 
 <!---
